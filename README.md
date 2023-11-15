@@ -3,9 +3,11 @@
 ## Simple tools for Iserv of LMS. Made with selenium and python
 
 ## Login
-┌── Login\
- │   ├── login.py\
- │   └── login-with-mfa.py
+```
+┌── Login  
+│   ├── login.py  
+│   └── login-with-mfa.py
+```
 
 Simple login script either with or without mfa support. Uses as default Firefox to open\
 
