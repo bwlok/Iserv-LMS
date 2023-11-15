@@ -4,8 +4,8 @@
 
 ## Login
 ┌── Login\
-│   ├── login.py\
-│   └── login-with-mfa.py\
+ │   ├── login.py\
+ │   └── login-with-mfa.py
 
 Simple login script either with or without mfa support. Uses as default Firefox to open\
 
